@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: projects
-permalink: /projects/
+title: Projects
+permalink: /Projects/
 ---
 
 TODO: list projects here.

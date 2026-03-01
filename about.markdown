@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: profile
-permalink: /profile/
+title: About
+permalink: /About/
 ---
 
 TODO: Update text desc and maybe add more pages
