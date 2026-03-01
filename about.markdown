@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi!
-
-I'm a Computer Science student at Monash University (Clayton). Welcome to my portfolio!
+TODO: Update text desc and maybe add more pages
 
 <!-- Given/default text from Jekyll template: -->
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
