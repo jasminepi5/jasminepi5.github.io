@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Title
 permalink: /projects/
 ---
+
+# Heading 1
 
 TODO: list projects here.
